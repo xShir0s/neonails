@@ -1,0 +1,19 @@
+h1
+{
+  text-align: center;
+}
+.nailcontainer
+{
+
+width: 400px;
+}
+.paznokiec
+{
+  width: 50px;
+
+}
+.box:hover
+{
+  border: solid black 1px;
+
+}

@@ -1,0 +1,36 @@
+.Blok
+{
+    display: flex;
+    width: 300px;
+    background: white;
+
+}
+.info
+{
+    width: 150px;
+}
+.nazwa
+{
+font-size: 25px;
+}
+.zdjecia
+{
+    width: 100px;
+    height: 150px;
+}
+.cena
+{
+    font-weight: bold;
+}
+.kolekcja
+{
+    text-align: center;
+    width: 100%;
+    background: rosybrown;
+}
+.Blok:hover
+{
+    border: solid black 1px;
+    scale: 105%;
+    transition: 0.5s all;
+}
